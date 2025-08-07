@@ -18,7 +18,7 @@ Certifique-se de que você tem as seguintes ferramentas instaladas na sua máqui
 
 ## 🛠️ Clonando o Projeto
 
-```bash
+
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
 
