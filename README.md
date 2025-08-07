@@ -72,7 +72,7 @@ Antes de rodar este projeto, certifique-se de ter:
 
 ```env
 CONNECTION_STRING=Host=localhost;Port=5432;Database=DataDb;Username=admin;Password=password
-
+````
 
 **Certifique-se de que seu DbContext carrega essa variável com a biblioteca DotNetEnv, por exemplo:**
 ## Exemplo
