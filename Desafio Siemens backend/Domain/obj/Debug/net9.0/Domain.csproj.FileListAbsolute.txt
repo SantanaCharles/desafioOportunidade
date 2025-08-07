@@ -1,0 +1,34 @@
+C:\Workspace\WA\Simens\Desafio Siemens\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Workspace\WA\Simens\Desafio Siemens\Domain\bin\Debug\net9.0\Domain.dll
+C:\Workspace\WA\Simens\Desafio Siemens\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Workspace\WA\Simens\Desafio Siemens\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\WA\Simens\Desafio Siemens\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Workspace\WA\Simens\Desafio Siemens\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Workspace\WA\Simens\Desafio Siemens\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Workspace\WA\Simens\Desafio Siemens\Domain\obj\Debug\net9.0\Domain.dll
+C:\Workspace\WA\Simens\Desafio Siemens\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Workspace\WA\Simens\Desafio Siemens\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Workspace\WA\Simens\Desafio Siemens\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\Workspace\WA\Simens\Desafio Siemens backend\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Workspace\WA\Simens\Desafio Siemens backend\Domain\bin\Debug\net9.0\Domain.dll
+C:\Workspace\WA\Simens\Desafio Siemens backend\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Workspace\WA\Simens\Desafio Siemens backend\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\WA\Simens\Desafio Siemens backend\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Workspace\WA\Simens\Desafio Siemens backend\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Workspace\WA\Simens\Desafio Siemens backend\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Workspace\WA\Simens\Desafio Siemens backend\Domain\obj\Debug\net9.0\Domain.dll
+C:\Workspace\WA\Simens\Desafio Siemens backend\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Workspace\WA\Simens\Desafio Siemens backend\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Workspace\WA\Simens\Desafio Siemens backend\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Domain\bin\Debug\net9.0\Domain.dll
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Domain\obj\Debug\net9.0\Domain.dll
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Domain\obj\Debug\net9.0\ref\Domain.dll

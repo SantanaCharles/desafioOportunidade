@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96DD0F60-928F-4922-B9F5-F3DB0D06FF48}|Biblioteca.Tests\\Biblioteca.Tests.csproj|c:\\workspace\\wa\\simens\\desafiooportunidade\\desafio siemens backend\\biblioteca.tests\\services\\livroservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DD0F60-928F-4922-B9F5-F3DB0D06FF48}|Biblioteca.Tests\\Biblioteca.Tests.csproj|solutionrelative:biblioteca.tests\\services\\livroservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA90D9D-8047-4276-8EB9-B1AC19645D9D}|Application\\Application.csproj|c:\\workspace\\wa\\simens\\desafiooportunidade\\desafio siemens backend\\application\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA90D9D-8047-4276-8EB9-B1AC19645D9D}|Application\\Application.csproj|solutionrelative:application\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FE13F3-0D4E-4B0A-A98F-87AD710900B4}|Infrastructure\\Infrastructure.csproj|c:\\workspace\\wa\\simens\\desafiooportunidade\\desafio siemens backend\\infrastructure\\data\\bibliotecadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FE13F3-0D4E-4B0A-A98F-87AD710900B4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\bibliotecadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FE13F3-0D4E-4B0A-A98F-87AD710900B4}|Infrastructure\\Infrastructure.csproj|c:\\workspace\\wa\\simens\\desafiooportunidade\\desafio siemens backend\\infrastructure\\data\\bibliotecadbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FE13F3-0D4E-4B0A-A98F-87AD710900B4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\bibliotecadbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA90D9D-8047-4276-8EB9-B1AC19645D9D}|Application\\Application.csproj|c:\\workspace\\wa\\simens\\desafiooportunidade\\desafio siemens backend\\application\\dtos\\livrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA90D9D-8047-4276-8EB9-B1AC19645D9D}|Application\\Application.csproj|solutionrelative:application\\dtos\\livrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CCC2E8-D11A-42B6-9A63-E52B29AE4BD7}|API\\API.csproj|c:\\workspace\\wa\\simens\\desafiooportunidade\\desafio siemens backend\\api\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CCC2E8-D11A-42B6-9A63-E52B29AE4BD7}|API\\API.csproj|solutionrelative:api\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DD0F60-928F-4922-B9F5-F3DB0D06FF48}|Biblioteca.Tests\\Biblioteca.Tests.csproj|c:\\workspace\\wa\\simens\\desafiooportunidade\\desafio siemens backend\\biblioteca.tests\\repositories\\livrorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DD0F60-928F-4922-B9F5-F3DB0D06FF48}|Biblioteca.Tests\\Biblioteca.Tests.csproj|solutionrelative:biblioteca.tests\\repositories\\livrorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DD0F60-928F-4922-B9F5-F3DB0D06FF48}|Biblioteca.Tests\\Biblioteca.Tests.csproj|c:\\workspace\\wa\\simens\\desafiooportunidade\\desafio siemens backend\\biblioteca.tests\\services\\generoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DD0F60-928F-4922-B9F5-F3DB0D06FF48}|Biblioteca.Tests\\Biblioteca.Tests.csproj|solutionrelative:biblioteca.tests\\services\\generoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA90D9D-8047-4276-8EB9-B1AC19645D9D}|Application\\Application.csproj|c:\\workspace\\wa\\simens\\desafiooportunidade\\desafio siemens backend\\application\\services\\generoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA90D9D-8047-4276-8EB9-B1AC19645D9D}|Application\\Application.csproj|solutionrelative:application\\services\\generoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DD0F60-928F-4922-B9F5-F3DB0D06FF48}|Biblioteca.Tests\\Biblioteca.Tests.csproj|c:\\workspace\\wa\\simens\\desafiooportunidade\\desafio siemens backend\\biblioteca.tests\\services\\autorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DD0F60-928F-4922-B9F5-F3DB0D06FF48}|Biblioteca.Tests\\Biblioteca.Tests.csproj|solutionrelative:biblioteca.tests\\services\\autorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA90D9D-8047-4276-8EB9-B1AC19645D9D}|Application\\Application.csproj|c:\\workspace\\wa\\simens\\desafiooportunidade\\desafio siemens backend\\application\\services\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA90D9D-8047-4276-8EB9-B1AC19645D9D}|Application\\Application.csproj|solutionrelative:application\\services\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DD0F60-928F-4922-B9F5-F3DB0D06FF48}|Biblioteca.Tests\\Biblioteca.Tests.csproj|c:\\workspace\\wa\\simens\\desafiooportunidade\\desafio siemens backend\\biblioteca.tests\\repositories\\generorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DD0F60-928F-4922-B9F5-F3DB0D06FF48}|Biblioteca.Tests\\Biblioteca.Tests.csproj|solutionrelative:biblioteca.tests\\repositories\\generorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FE13F3-0D4E-4B0A-A98F-87AD710900B4}|Infrastructure\\Infrastructure.csproj|c:\\workspace\\wa\\simens\\desafiooportunidade\\desafio siemens backend\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FE13F3-0D4E-4B0A-A98F-87AD710900B4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DD0F60-928F-4922-B9F5-F3DB0D06FF48}|Biblioteca.Tests\\Biblioteca.Tests.csproj|c:\\workspace\\wa\\simens\\desafiooportunidade\\desafio siemens backend\\biblioteca.tests\\repositories\\autorrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DD0F60-928F-4922-B9F5-F3DB0D06FF48}|Biblioteca.Tests\\Biblioteca.Tests.csproj|solutionrelative:biblioteca.tests\\repositories\\autorrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CCC2E8-D11A-42B6-9A63-E52B29AE4BD7}|API\\API.csproj|c:\\workspace\\wa\\simens\\desafiooportunidade\\desafio siemens backend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11CCC2E8-D11A-42B6-9A63-E52B29AE4BD7}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CCC2E8-D11A-42B6-9A63-E52B29AE4BD7}|API\\API.csproj|c:\\workspace\\wa\\simens\\desafiooportunidade\\desafio siemens backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CCC2E8-D11A-42B6-9A63-E52B29AE4BD7}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 392,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BibliotecaDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Infrastructure\\Data\\BibliotecaDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\BibliotecaDbContextFactory.cs",
+              "ToolTip": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Infrastructure\\Data\\BibliotecaDbContextFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\BibliotecaDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:22:24.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BibliotecaDbContext.cs",
+              "DocumentMoniker": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Infrastructure\\Data\\BibliotecaDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\BibliotecaDbContext.cs",
+              "ToolTip": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Infrastructure\\Data\\BibliotecaDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\BibliotecaDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:21:16.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroServiceTests.cs",
+              "DocumentMoniker": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Biblioteca.Tests\\services\\LivroServiceTests.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Tests\\services\\LivroServiceTests.cs",
+              "ToolTip": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Biblioteca.Tests\\services\\LivroServiceTests.cs",
+              "RelativeToolTip": "Biblioteca.Tests\\services\\LivroServiceTests.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAcwJsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:37:03.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GeneroServiceTests.cs",
+              "DocumentMoniker": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Biblioteca.Tests\\services\\GeneroServiceTests.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Tests\\services\\GeneroServiceTests.cs",
+              "ToolTip": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Biblioteca.Tests\\services\\GeneroServiceTests.cs",
+              "RelativeToolTip": "Biblioteca.Tests\\services\\GeneroServiceTests.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAwwKAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:30:23.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GeneroService.cs",
+              "DocumentMoniker": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Application\\Services\\GeneroService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\GeneroService.cs",
+              "ToolTip": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Application\\Services\\GeneroService.cs",
+              "RelativeToolTip": "Application\\Services\\GeneroService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:28:47.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutorServiceTests.cs",
+              "DocumentMoniker": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Biblioteca.Tests\\services\\AutorServiceTests.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Tests\\services\\AutorServiceTests.cs",
+              "ToolTip": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Biblioteca.Tests\\services\\AutorServiceTests.cs",
+              "RelativeToolTip": "Biblioteca.Tests\\services\\AutorServiceTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwJ4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:27:38.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Application\\Services\\AutorService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AutorService.cs",
+              "ToolTip": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Application\\Services\\AutorService.cs",
+              "RelativeToolTip": "Application\\Services\\AutorService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:26:23.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:16:31.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LivroRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Biblioteca.Tests\\Repositories\\LivroRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Tests\\Repositories\\LivroRepositoryTests.cs",
+              "ToolTip": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Biblioteca.Tests\\Repositories\\LivroRepositoryTests.cs",
+              "RelativeToolTip": "Biblioteca.Tests\\Repositories\\LivroRepositoryTests.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAswH8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:15:51.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutorRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Biblioteca.Tests\\Repositories\\AutorRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Tests\\Repositories\\AutorRepositoryTests.cs",
+              "ToolTip": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Biblioteca.Tests\\Repositories\\AutorRepositoryTests.cs",
+              "RelativeToolTip": "Biblioteca.Tests\\Repositories\\AutorRepositoryTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:12:49.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T13:44:55.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\API\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\API\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "API\\Controllers\\LivroController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:19:04.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Application\\Services\\LivroService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\LivroService.cs",
+              "ToolTip": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Application\\Services\\LivroService.cs",
+              "RelativeToolTip": "Application\\Services\\LivroService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:49:23.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LivroDto.cs",
+              "DocumentMoniker": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Application\\DTOs\\LivroDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LivroDto.cs",
+              "ToolTip": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Application\\DTOs\\LivroDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\LivroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:05:00.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T01:38:22.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GeneroRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Biblioteca.Tests\\Repositories\\GeneroRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Tests\\Repositories\\GeneroRepositoryTests.cs",
+              "ToolTip": "C:\\Workspace\\WA\\Simens\\desafioOportunidade\\Desafio Siemens backend\\Biblioteca.Tests\\Repositories\\GeneroRepositoryTests.cs",
+              "RelativeToolTip": "Biblioteca.Tests\\Repositories\\GeneroRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T19:21:13.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 116,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

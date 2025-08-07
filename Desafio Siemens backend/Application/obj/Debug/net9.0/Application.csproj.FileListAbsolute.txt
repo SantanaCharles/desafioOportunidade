@@ -1,0 +1,46 @@
+C:\Workspace\WA\Simens\Desafio Siemens\Application\bin\Debug\net9.0\Application.deps.json
+C:\Workspace\WA\Simens\Desafio Siemens\Application\bin\Debug\net9.0\Application.dll
+C:\Workspace\WA\Simens\Desafio Siemens\Application\bin\Debug\net9.0\Application.pdb
+C:\Workspace\WA\Simens\Desafio Siemens\Application\bin\Debug\net9.0\Domain.dll
+C:\Workspace\WA\Simens\Desafio Siemens\Application\bin\Debug\net9.0\Domain.pdb
+C:\Workspace\WA\Simens\Desafio Siemens\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Workspace\WA\Simens\Desafio Siemens\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\WA\Simens\Desafio Siemens\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Workspace\WA\Simens\Desafio Siemens\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Workspace\WA\Simens\Desafio Siemens\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Workspace\WA\Simens\Desafio Siemens\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Workspace\WA\Simens\Desafio Siemens\Application\obj\Debug\net9.0\Application.dll
+C:\Workspace\WA\Simens\Desafio Siemens\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Workspace\WA\Simens\Desafio Siemens\Application\obj\Debug\net9.0\Application.pdb
+C:\Workspace\WA\Simens\Desafio Siemens\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Workspace\WA\Simens\Desafio Siemens backend\Application\bin\Debug\net9.0\Application.deps.json
+C:\Workspace\WA\Simens\Desafio Siemens backend\Application\bin\Debug\net9.0\Application.dll
+C:\Workspace\WA\Simens\Desafio Siemens backend\Application\bin\Debug\net9.0\Application.pdb
+C:\Workspace\WA\Simens\Desafio Siemens backend\Application\bin\Debug\net9.0\Domain.dll
+C:\Workspace\WA\Simens\Desafio Siemens backend\Application\bin\Debug\net9.0\Domain.pdb
+C:\Workspace\WA\Simens\Desafio Siemens backend\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Workspace\WA\Simens\Desafio Siemens backend\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\WA\Simens\Desafio Siemens backend\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Workspace\WA\Simens\Desafio Siemens backend\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Workspace\WA\Simens\Desafio Siemens backend\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Workspace\WA\Simens\Desafio Siemens backend\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Workspace\WA\Simens\Desafio Siemens backend\Application\obj\Debug\net9.0\Application.dll
+C:\Workspace\WA\Simens\Desafio Siemens backend\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Workspace\WA\Simens\Desafio Siemens backend\Application\obj\Debug\net9.0\Application.pdb
+C:\Workspace\WA\Simens\Desafio Siemens backend\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Application\bin\Debug\net9.0\Application.deps.json
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Application\bin\Debug\net9.0\Application.dll
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Application\bin\Debug\net9.0\Application.pdb
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Application\bin\Debug\net9.0\Domain.dll
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Application\bin\Debug\net9.0\Domain.pdb
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Application\obj\Debug\net9.0\Application.sourcelink.json
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Application\obj\Debug\net9.0\Application.dll
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Application\obj\Debug\net9.0\Application.pdb
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Application\obj\Debug\net9.0\ref\Application.dll

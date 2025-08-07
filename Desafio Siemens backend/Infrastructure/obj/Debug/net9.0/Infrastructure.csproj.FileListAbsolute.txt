@@ -1,0 +1,58 @@
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\bin\Debug\net9.0\Application.dll
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\bin\Debug\net9.0\Application.pdb
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\Workspace\WA\Simens\Desafio Siemens\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\bin\Debug\net9.0\Application.dll
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\bin\Debug\net9.0\Application.pdb
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\Workspace\WA\Simens\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\bin\Debug\net9.0\Application.dll
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\bin\Debug\net9.0\Application.pdb
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\Workspace\WA\Simens\desafioOportunidade\Desafio Siemens backend\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
